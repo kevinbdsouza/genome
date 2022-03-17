@@ -8,6 +8,7 @@
 *.log
 *.log.*
 *.sig
-
-pkg/
-src/
+*.idea
+*.Rhistory
+*.DS_Sore
+.DS_Store
